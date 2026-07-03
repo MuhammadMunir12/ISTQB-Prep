@@ -1,0 +1,6 @@
+{
+  "name": "ISTQB Prep",
+  "description": "An AI-powered learning platform for ISTQB exam preparation, featuring an intelligent tutor, adaptive mock exams, spaced repetition flashcards, and rich study metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
